@@ -16,4 +16,9 @@
     <history-start>0001-01-01</history-start>
   </meta>
   <xi:include href="./us/ca/cities/american-canyon/code/index.xml"/>
+  <collection name="us/ca/cities/american-canyon/ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
+  </collection>
 </library>
