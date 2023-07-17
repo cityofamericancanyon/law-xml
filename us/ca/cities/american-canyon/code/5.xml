@@ -125,10 +125,13 @@
       <para>
         <num>F.</num>
         <text>To contain food from a public eating establishment. (Ord. 2015-08 § 3, 2015)</text>
-        <text>5.01.060	Enforcement.</text>
-        <text>The director shall have primary responsibility for enforcement of this chapter. The director is authorized to make all necessary and reasonable rules and regulations with respect to the enforcement of this chapter. All such rules and regulations shall be consistent with the provisions of this chapter.</text>
-        <text>It is a violation of this code, subject to enforcement pursuant to Chapter 1.16 of this code and punishment and prosecution pursuant to Chapter 1.20 of this code, for any retail establishment to violate or fail to comply with any provision of this chapter. (Ord. 2015-08 § 3, 2015)</text>
       </para>
+    </section>
+    <section>
+      <num>5.01.060</num>
+      <heading>Enforcement.</heading>
+      <text>The director shall have primary responsibility for enforcement of this chapter. The director is authorized to make all necessary and reasonable rules and regulations with respect to the enforcement of this chapter. All such rules and regulations shall be consistent with the provisions of this chapter.</text>
+      <text>It is a violation of this code, subject to enforcement pursuant to Chapter 1.16 of this code and punishment and prosecution pursuant to Chapter 1.20 of this code, for any retail establishment to violate or fail to comply with any provision of this chapter. (Ord. 2015-08 § 3, 2015)</text>
     </section>
   </container>
   <container>
@@ -1511,26 +1514,29 @@
     <section>
       <num>5.05.150</num>
       <heading>Revocation or suspension of permit.</heading>
-      <text>A	A special event or temporary outdoor promotion permit issued under this chapter shall be revoked or suspended by the city manager or chief of police services if he or she finds that one or more of the following conditions exist and have not been corrected by the applicant after timely notice of the condition's existence has been given:</text>
       <para>
-        <num>1.</num>
-        <text>The special event or temporary outdoor promotion is being used to conduct an activity different from that for which it was specifically issued;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>That one or more of the conditions listed in Section 5.05.090 exists;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>That the activity is being conducted in a manner which violates one or more of the conditions imposed upon the issuance of the special event or temporary outdoor promotion permit or fails to conform to the plans and procedures described in the application;</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The applicant violates or attempts to violate any federal, state or local laws and regulations;</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>The special event or temporary outdoor promotion is being conducted in a fraudulent or disorderly manner, or in a manner which endangers the public health or safety.</text>
+        <num>A.</num>
+        <text>A special event or temporary outdoor promotion permit issued under this chapter shall be revoked or suspended by the city manager or chief of police services if he or she finds that one or more of the following conditions exist and have not been corrected by the applicant after timely notice of the condition's existence has been given:</text>
+        <para>
+          <num>1.</num>
+          <text>The special event or temporary outdoor promotion is being used to conduct an activity different from that for which it was specifically issued;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>That one or more of the conditions listed in Section 5.05.090 exists;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>That the activity is being conducted in a manner which violates one or more of the conditions imposed upon the issuance of the special event or temporary outdoor promotion permit or fails to conform to the plans and procedures described in the application;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The applicant violates or attempts to violate any federal, state or local laws and regulations;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The special event or temporary outdoor promotion is being conducted in a fraudulent or disorderly manner, or in a manner which endangers the public health or safety.</text>
+        </para>
       </para>
       <para>
         <num>B.</num>
@@ -2821,7 +2827,11 @@
         <text>Discovery of these facts showing that the applicant is dishonest or has been convicted of those types of crimes are grounds for denial of the permit. Where the applicant's sentence (including any term of probation, incarceration, or supervised release) for possession of, possession for sale, sale, manufacture, transportation, or cultivation of a controlled substance is completed, such underlying conviction shall not be the sole ground for denial of a commercial cannabis work permit. Furthermore, an applicant shall not be denied a permit if the denial is based solely on any of the following:</text>
         <para>
           <num>1.</num>
-          <text>A conviction for any crime listed in subsection (D)(4) of this section for which the applicant has obtained a certificate of rehabilitation pursuant to Chapter 3.5 (commencing with Section 4852.01) of Title 6 of Part 3 of the California Penal Code; or&#13;	2.	A conviction that was subsequently dismissed pursuant to Section 1203.4, 1203.4a, or 1203.41 of the California Penal Code or any other provision of state law allowing for dismissal of a conviction.</text>
+          <text>A conviction for any crime listed in subsection (D)(4) of this section for which the applicant has obtained a certificate of rehabilitation pursuant to Chapter 3.5 (commencing with Section 4852.01) of Title 6 of Part 3 of the California Penal Code; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A conviction that was subsequently dismissed pursuant to Section 1203.4, 1203.4a, or 1203.41 of the California Penal Code or any other provision of state law allowing for dismissal of a conviction.</text>
         </para>
       </para>
       <para>
@@ -5782,26 +5792,26 @@
           <para>
             <num>2.</num>
             <text>Telephones. All Call Response statistics shall be measured on the basis of call response statistics in all call centers that serve Subscribers. If the call centers serve Subscribers located in other communities, the Franchisee shall ensure that call center representatives do not give priority or preferential treatment to Subscribers located in other communities.</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>.	Definition of Call Response terms:</text>
-          </para>
-          <para>
-            <num>(i)</num>
-            <text>Answer time is the interval between when the Franchisee receives a call and when an interactive voice response (IVR) or agent answers.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Speed of Answer is the amount of time between when the customer is transferred into the agent queue from either an IVR or an agent and the time an agent answers.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Calls Abandoned is the percentage of calls in any agent queue that are abandoned.</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Trunks Busy represents the percentage of time customers receive a busy signal when they call customer service during normal business hours.</text>
+            <para>
+              <num>(A)</num>
+              <text>Definition of Call Response terms:</text>
+              <para>
+                <num>(i)</num>
+                <text>Answer time is the interval between when the Franchisee receives a call and when an interactive voice response (IVR) or agent answers.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Speed of Answer is the amount of time between when the customer is transferred into the agent queue from either an IVR or an agent and the time an agent answers.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Calls Abandoned is the percentage of calls in any agent queue that are abandoned.</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Trunks Busy represents the percentage of time customers receive a busy signal when they call customer service during normal business hours.</text>
+              </para>
+            </para>
           </para>
           <para>
             <num>2.1.</num>

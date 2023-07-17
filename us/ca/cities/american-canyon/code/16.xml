@@ -926,7 +926,7 @@
       <text>"Swing joint" means an irrigation component that provides a flexible, leak-free connection between the emission device and lateral pipeline to allow movement in any direction and to prevent equipment damage.</text>
       <text>"Turf" means a species of grass that was developed to be used as a lawn together with the surface layer of earth held together by its roots.</text>
       <text>"Valve" means a device used to control the flow of water in the irrigation system.</text>
-      <text>"Water conserving plant species" means a plant species identified as having a low plant factor.   "Water feature" means a design element where open water performs an aesthetic or recreational function. Water features include ponds, lakes, waterfalls, fountains, artificial streams, spas, and swimming pools (where water is artificially supplied).</text>
+      <text>"Water conserving plant species" means a plant species identified as having a low plant factor. 	"Water feature" means a design element where open water performs an aesthetic or recreational function. Water features include ponds, lakes, waterfalls, fountains, artificial streams, spas, and swimming pools (where water is artificially supplied).</text>
       <text>"Watering window" means the time of day irrigation is allowed.</text>
       <text>"WUCOLS" means the Water Use Classification of Landscape Species published by the University of California Cooperative Extension, the Department of Water Resources and the Bureau of Reclamation, 2100. (Ord. 2015-05 § 2, 2015)</text>
     </section>
@@ -1157,7 +1157,7 @@
           </text>
         </para>
       </para>
-      <text>* The values in this table were derived from:</text>
+      <text>*	The values in this table were derived from:</text>
       <para>
         <num>1.</num>
         <text>California Irrigation Management Information System (CIMIS);</text>
@@ -1272,7 +1272,7 @@
           </text>
         </para>
       </para>
-      <text>* Plant Factor from WUCOLS</text>
+      <text>*	Plant Factor from WUCOLS</text>
       <text>ETWU = (51.1)(0.62)(24,700/0.71 + 0)</text>
       <text>= 1,102,116 gallons per year</text>
       <text>Compare ETWU with MAWA: For this example MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 0)] = 1,108,870 gallons per year. The ETWU (1,102,116 gallons per year) is less than MAWA (1,108,870 gallons per year). In this example, the water budget complies with the MAWA.</text>
@@ -1344,7 +1344,7 @@
           </table>
         </text>
       </para>
-      <text>* Plant Factor from WUCOLS</text>
+      <text>*	Plant Factor from WUCOLS</text>
       <text>ETWU = (51.1)(0.62)(23,500/0.71 + 2,000)</text>
       <text>= (31.68) (33,099 + 2,000)</text>
       <text>= 1,111,936 gallons per year</text>
@@ -1809,7 +1809,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>For implementation of the irrigation schedule, particular attention must be paid to irrigation run times, emission device, flow rate, and current reference evapotranspiration, so that applied water meets the estimated total water use. Total annual applied water shall be less than or equal to maximum applied water allowance (MAWA). Actual irrigation schedules shall be regulated by automatic irrigation controllers using current reference evapotranspiration data (e.g., CIMIS) or soil moisture sensor data.&#13;  D.  Parameters used to set the automatic controller shall be developed and submitted for each of the following:</text>
+        <text>For implementation of the irrigation schedule, particular attention must be paid to irrigation run times, emission device, flow rate, and current reference evapotranspiration, so that applied water meets the estimated total water use. Total annual applied water shall be less than or equal to maximum applied water allowance (MAWA). Actual irrigation schedules shall be regulated by automatic irrigation controllers using current reference evapotranspiration data (e.g., CIMIS) or soil moisture sensor data.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Parameters used to set the automatic controller shall be developed and submitted for each of the following:</text>
         <para>
           <num>1.</num>
           <text>The plant establishment period;</text>
