@@ -16,6 +16,9 @@
       <num>10.04.020</num>
       <heading>Construction of singular and plural.</heading>
       <text>The singular number includes the plural and the plural number includes the singular. (Ord. 92-19 § 3, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 3, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.030</num>
@@ -28,6 +31,9 @@
         <num>B.</num>
         <text>Whenever any words or phrases used in this code are not defined herein, but are defined in the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the state of California, such definitions are incorporated herein and shall be deemed to apply to such words and phrases used in <cite path="10.04">this chapter</cite> as though set forth in <cite path="10.04">this chapter</cite> in full. (Ord. 92-19 § 15, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 15, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.040</num>
@@ -55,6 +61,9 @@
       <text>"Stop," when required, means complete cessation of movement.</text>
       <text>"Stop or stand," when prohibited means any stopping or standing of a vehicle, whether occupied or not, except when necessary to avoid conflict with other traffic or in compliance with the directions of a police officer or official traffic control device.</text>
       <text>"Traffic" means pedestrians, ridden or herded animals, vehicles, bicycles and other conveyances either singly or together while using any street for purposes of travel. (Ord. 92-19 §§ 17-34, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 §§ 17-34, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -65,16 +74,25 @@
       <num>10.08.010</num>
       <heading>Duty of police department.</heading>
       <text>It shall be the duty of the police department to enforce the street traffic regulations of this city and all of the state vehicle laws applicable to street traffic in this city, to make arrests for traffic violations, to investigate traffic accidents and to cooperate with the traffic engineer and other officers of the city in the administration of the traffic laws and in developing ways and means to improve traffic conditions, and to carry out those duties specially imposed upon the department of this code. (Ord. 92-19 § 40, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 40, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.020</num>
       <heading>Traffic accident studies.</heading>
       <text>Whenever the accidents at any particular location become numerous, the police department shall cooperate with the traffic engineer in conducting studies of such accidents and determine remedial measures. (Ord. 92-19 § 42, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 42, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.030</num>
       <heading>Traffic accident reports.</heading>
       <text>The police department shall maintain a suitable system of filing traffic accident reports. Such reports shall be available for the use and information of the traffic engineer. (Ord. 92-19 § 43, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 43, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.040</num>
@@ -92,11 +110,17 @@
         <num>C.</num>
         <text>The plans and recommendations of the department for future traffic safety activities. (Ord. 92-19 § 44, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 44, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.050</num>
       <heading>Duties of traffic engineer.</heading>
       <text>It shall be the general duty of the traffic engineer, under this code, to determine the installation and maintenance of traffic control devices and signals, to conduct engineering analyses of traffic accidents and to devise remedial measures, to conduct engineering investigation of traffic conditions, and to cooperate with other city officials in the development of ways and means to improve traffic conditions, and to perform such others duties hereunder as may be required by the city manager. (Ord. 92-19 § 45, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 45, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.060</num>
@@ -121,26 +145,41 @@
         <num>E.</num>
         <text>Inspectors and officers of the fire prevention bureau of the fire district may enforce <cite doc="Cal. Veh. Code">Vehicle Code</cite> Sections <cite doc="Cal. Veh. Code" path="§21708">21708</cite> and <cite doc="Cal. Veh. Code" path="§22514">22514</cite>. (Ord. 92-19 § 50, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 50, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.070</num>
       <heading>Traffic control at school crossing or other places.</heading>
       <text>It shall be the duty of any person appointed by the chief of police for such purpose, to control traffic at school crossings or other places designated by him. It shall be unlawful for any person, at any school crossing, or at any designated place, to refuse or fail to comply with any order, signal or direction of any person appointed by the chief of police to control traffic at school crossings or such designated places, provided that such person giving any order, signal or direction at such school crossing, or such designated place, shall at the time be wearing some insignia indicating such appointment. It shall be unlawful for any minor to direct or attempt to direct traffic unless authorized to do so by order of the chief of police. (Ord. 92-19 § 51, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 51, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.080</num>
       <heading>Obedience to police and fire officials.</heading>
       <text>No person shall wilfully fail or refuse to comply with any lawful order of a police officer or member of the fire district when directing traffic. (Ord. 92-19 § 52, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 52, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.090</num>
       <heading>Persons other than officials shall not direct traffic.</heading>
       <text>No person other than an officer of the police department, or a person authorized by the chief of police or other person authorized by law, shall direct or attempt to direct traffic by voice, hand or other signal. (Ord. 92-19 § 53, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 53, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.100</num>
       <heading>Public employees to obey traffic regulations.</heading>
       <text>The provisions of this code shall apply to the driver of any vehicle owned by or used in the service of the United States government, this state, any county or city, and it shall be unlawful for any said driver to violate any of the provisions of this code except as otherwise permitted in this code or by state statute. (Ord. 92-19 § 54, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 54, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.110</num>
@@ -157,6 +196,9 @@
         <num>C.</num>
         <text>The provisions of this code regulating the parking or standing of vehicles shall not apply to any vehicle of a city department or public utility while necessarily in use for construction or repair work or any vehicle owned by the United States while in use for the collection, transportation or delivery of United States mail. (Ord. 92-19 § 55, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 55, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.120</num>
@@ -173,11 +215,17 @@
         <num>C.</num>
         <text>A driver involved in an accident shall not be subject to the requirements or penalties of <cite path="|10.08.120">this section</cite> if and during the time such driver is physically incapable of making a report, but in such event the driver shall make a report as required in subsection A of <cite path="|10.08.120">this section</cite> within twenty-four hours after regaining ability to make such report. (Ord. 92-19 § 56, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 56, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.130</num>
       <heading>Vehicles obstructing normal flow of traffic—Removal.</heading>
       <text>Any vehicle parked or stopped in violation of Sections <cite path="|10.20.110">10.20.110</cite>, <cite path="|10.32.090">10.32.090</cite>, <cite path="|10.32.280">10.32.280</cite>, and <cite path="|10.32.290">10.32.290</cite> of this code shall be deemed to be left standing upon a street or highway in an unusual position and obstructing the normal movement of traffic thereon and may be removed as provided in <cite doc="Cal. Veh. Code" path="§22651">Section 22651 of the California Vehicle Code</cite>. (Ord. 92-19 § 57, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 57, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.140</num>
@@ -190,16 +238,25 @@
         <num>B.</num>
         <text>The prohibition contained in <cite path="|10.08.140">this section</cite> shall apply from the time of the happening of any of the aforesaid occurrences until a reasonable time thereafter, and at all times while law enforcement officers, public health personnel, and other persons discharging duties imposed by law, are actively engaged in the performance of duty at the location of the occurrences. (Ord. 92-19 § 201, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 201, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.150</num>
       <heading>Interception of police broadcasts.</heading>
       <text>No person, not being authorized by the sender, who intercepts, overhears, or receives any message or communications transmitted by any transmitting station operating upon a wave length or radio frequency assigned by the Federal Communications Commission for use by any police or other person, communicate such message or communication to any other person, or directly or indirectly use the information so obtained for personal gain. (Ord. 92-19 § 202, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 202, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.160</num>
       <heading>Applicability to both public and private streets.</heading>
       <text>The duties and powers granted within <cite path="10.08">this chapter</cite> shall apply to all streets, highways, avenues, boulevards, alleys, courts, places, squares and curbs, regardless of whether dedicated or open to public use. (Ord. 2002-05 § 1, 2002)</text>
+      <annotations>
+        <annotation type="History">Ord. 2002-05 § 1, 2002</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.170</num>
@@ -220,6 +277,9 @@
         <num>D.</num>
         <text>The chief of police, with the approval of the city council, is authorized to adopt such rules, regulations and procedures as they determine are necessary for the department to impose, collect and administer the fee imposed by <cite path="|10.08.170">this section</cite>. (Ord. 2007-02 § 1, 2007)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-02 § 1, 2007</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.180</num>
@@ -236,6 +296,9 @@
         <num>C.</num>
         <text>Accumulation of Moneys in Fund. The balance remaining in the traffic offender fund at the close of any fiscal year shall be deemed to have been provided for a specific purpose and shall be carried forward and accumulated in the fund for the purposes recited herein. (Ord. 2007-02 § 1, 2007)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-02 § 1, 2007</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.190</num>
@@ -272,6 +335,9 @@
         <num>C.</num>
         <text>Pursuant to the provisions of the American Canyon vehicles and traffic code, indigent owners of vehicles and victims of auto theft shall be exempt from paying fees, charges, or costs imposed for the towing and storage of the vehicle, except no person shall be exempt from tow and storage charges pursuant to Sections <cite path="|10.08.170">10.08.170</cite> and <cite path="|10.08.180">10.08.180</cite> of <cite path="10.08">this chapter</cite>. (Ord. 2007-02 § 2, 2007)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-02 § 2, 2007</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -293,16 +359,25 @@
         <num>C.</num>
         <text>The traffic engineer may also place and maintain such additional traffic control devices as he or she may deem necessary to regulate traffic or to guide or warn traffic, but he or she shall make such determination only upon the basis of traffic engineering principles and traffic investigations and in accordance with such standards, limitations and rules as may be set forth in the traffic regulations of this city or as may be hereafter determined by the legislative body of this code. (Ord. 92-19 § 60, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 60, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.020</num>
       <heading>When traffic control devices required for enforcement purposes.</heading>
       <text>No provisions of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> or of this code for which signs are required shall be enforced against an alleged violator unless appropriate signs are in place and sufficiently legible to be seen by an ordinarily observant person, giving notice of such provisions of the traffic laws. (Ord. 92-19 § 61, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 61, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.030</num>
       <heading>Obedience to traffic control devices.</heading>
       <text>The driver of any vehicle shall obey the instructions of any official traffic control devices applicable thereto placed in accordance with the traffic regulations of this city unless otherwise directed by a police officer subject to the exceptions granted the driver of an authorized emergency vehicle when responding to emergency calls. (Ord. 92-19 § 62, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 62, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.040</num>
@@ -315,26 +390,41 @@
         <num>B.</num>
         <text>The traffic engineer shall ascertain and determine the locations where such signals are required to resort to field observation, traffic counts and other traffic information as may be pertinent and his determinations therefrom shall be made in accordance with those traffic engineering and safety standards and instructions set forth in the California Maintenance Manual issued by the California Department of Transportation (Caltrans). (Ord. 92-19 § 63, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 63, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.050</num>
       <heading>Lane markings.</heading>
       <text>The traffic engineer is authorized to mark center lines and lane lines upon the surface of the roadway to indicate the course to be traveled by vehicles and may place signs temporarily designating lanes to be used by traffic moving in a particular direction, regardless of the center line of the highway. When authorized signs have been placed designating off-center traffic lanes, no person shall disobey the instructions given by such signs. (Ord. 92-19 § 64, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 64, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.060</num>
       <heading>Authority to remove, relocate or discontinue traffic control devices.</heading>
       <text>The traffic engineer is authorized to remove, relocate or discontinue the operation of any traffic control device not specifically required by state law or this code whenever he shall determine in any particular case that the conditions which warranted or required the installation no longer exist or obtain. (Ord. 92-19 § 65, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 65, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.070</num>
       <heading>Traffic control devices—Hours of operation.</heading>
       <text>The traffic engineer shall determine the hours and days during which any traffic control device shall be in operation or be in effect, except in those cases where such hours or days are specified in this code. (Ord. 92-19 § 66, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 66, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.080</num>
       <heading>Unauthorized painting of curbs.</heading>
       <text>It shall be unlawful for any person, without authority from the city to place or maintain paint or other material upon any curb in the city in a manner which purports to be, or is, an imitation of or resembles official indication of parking regulations. (Ord. 92-19 § 67, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 67, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.090</num>
@@ -342,6 +432,10 @@
       <text>Whenever any resolution of this city designates and describes any street or portion thereof as a through street, or any intersection at which vehicles are required to stop at one or more entrances thereto, or any railroad grade crossing at which vehicles are required to stop, the traffic engineer shall erect and maintain stop signs as follows:</text>
       <text>A stop sign shall be erected on each and every street intersecting such through street or portion thereof so designated and at those entrances of other intersections where a stop is required and at any railroad grade crossing so designated. Every such sign shall conform with and shall be placed as provided in <cite doc="Cal. Veh. Code" path="§21355">Section 21355 of the Vehicle Code</cite>.</text>
       <text>(Ord. 94-01 § 9, 1994; Ord. 92-19 § 90, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 94-01 § 9, 1994</annotation>
+        <annotation type="History">Ord. 92-19 § 90, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.100</num>
@@ -362,6 +456,9 @@
         <num>D.</num>
         <text>When stop signs are erected, as herein provided, at the entrance to any intersection or at any railroad grade crossing every driver of a vehicle shall stop, as required by the <cite doc="Cal. Veh. Code">Vehicle Code</cite>. (Ord. 92-19 § 91, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 91, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -379,21 +476,33 @@
         <num>B.</num>
         <text>When authorized markers, buttons, or other indications are placed within an intersection indicating the course to be traveled by vehicles turning thereat, no driver of a vehicle shall disobey the directions of such indications. (Ord. 92-19 § 70, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 70, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.020</num>
       <heading>Authority to place restricted turn.</heading>
       <text>The traffic engineer is authorized to determine those intersections at which drivers of vehicles shall not make a right, left or U-turn, and shall place proper signs at such intersections. The making of such turns may be prohibited between certain hours of any day and permitted at other hours, in which event the same shall be plainly indicated on the signs or they may be removed when such turns are permitted. (Ord. 92-19 § 71, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 71, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.030</num>
       <heading>Obedience to no-turn signs.</heading>
       <text>Whenever authorized signs are erected indicating that no right or left turn is permitted, no driver of a vehicle shall disobey the directions of any such sign. (Ord. 92-19 § 72, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 72, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.040</num>
       <heading>Authority to prohibit right turns against traffic stop signal.</heading>
       <text>The traffic engineer is authorized to determine those intersections at which drivers of vehicles shall not make a right turn against a red or stop signal and shall erect proper signs giving notice of such prohibition. No driver of a vehicle shall disobey the direction of any such sign. (Ord. 92-19 § 73, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 73, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -404,71 +513,113 @@
       <num>10.20.010</num>
       <heading>Traffic regulations in parks.</heading>
       <text>It is unlawful for any person to drive or ride within the boundaries of any public park in the city at a rate of speed exceeding five miles per hour, or for any person to ride or drive within the limits of the parks other than upon the avenues and roads provided therefore. (Ord. 92-19 § 100, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 100, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.020</num>
       <heading>Driving through funeral processions.</heading>
       <text>No driver of a vehicle shall drive between vehicles comprising a funeral procession while they are in motion and when the vehicles in such procession are conspicuously so designated. (Ord. 92-19 § 101, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 101, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.030</num>
       <heading>Clinging to moving vehicles.</heading>
       <text>Any person riding upon any bicycle, motorcycle, coaster, skate board, roller skates or any toy vehicle shall not attach the same or him/herself to any moving vehicle upon any roadway. (Ord. 92-19 § 102, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 102, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.040</num>
       <heading>Vehicles shall not be driven on the sidewalk.</heading>
       <text>The driver of a vehicle shall not drive within any sidewalk area or any parkway except at a permanent or temporary driveway. (Ord. 92-19 § 103, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 103, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.050</num>
       <heading>New pavement.</heading>
       <text>No person shall ride or drive any animal or any vehicle over or across any newly made pavement or freshly painted marking in any street when a barrier or sign is in place warning persons not to drive over or across such pavement or marking, or when a sign is in place stating that the street or any portion thereof is closed. (Ord. 92-19 § 104, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 104, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.060</num>
       <heading>Limited access.</heading>
       <text>No person shall drive a vehicle onto or from any limited access highway except at such entrances and exits as are established by or with the consent of public authority. (Ord. 92-19 § 105, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 105, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.070</num>
       <heading>Vehicles on private property.</heading>
       <text>It is unlawful for any person to operate or drive or leave any vehicle in, over or upon any private property without the express permission of the owner thereof. (Ord. 92-19 § 106, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 106, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.080</num>
       <heading>Left turns between intersections.</heading>
       <text>It is unlawful for the operator of any vehicle to turn such vehicle to the left, whether for the purpose of entering or leaving. a driveway or otherwise, at any place between the intersections and during the times designated by the traffic engineer when such places are appropriately signed or marked. (Ord. 92-19 § 107, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 107, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.090</num>
       <heading>Parking on grades.</heading>
       <text>It is unlawful for any person driving, or in control of, or in charge of, a motor vehicle to permit it to stand on any highway unattended when upon any grade exceeding three percent within any business or residence district without blocking the wheels of said vehicles by turning them against the curb or by other means. (Ord. 92-19 § 108, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 108, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.100</num>
       <heading>Intoxicated persons in or about vehicles.</heading>
       <text>It is unlawful for any person who is under the influence of intoxicating liquor or narcotic drugs to be in or about any vehicle to which he has the right or access or control while such vehicle is in or upon any street or any other public place in the city, unless the same is under the immediate control or operation of a person not under the influence of intoxicating liquor or narcotic drugs. (Ord. 92-19 § 109, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 109, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.110</num>
       <heading>Obedience to barriers and signs.</heading>
       <text>No person, public utility or any department of this city shall erect or place any barrier or sign on any street unless of a type first approved by the traffic engineer. It is unlawful for any person to disobey the instructions of any barrier or sign placed in any street by any public utility or by any department of this city, provided the type of barrier or sign so erected has been first approved by the traffic engineer. (Ord. 92-19 § 110, 1994)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 110, 1994</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.120</num>
       <heading>Stop when traffic obstructed.</heading>
       <text>No driver shall enter an intersection or a marked crosswalk unless there is sufficient space on the other side of the intersection or crosswalk to accommodate the vehicle he or she is operating without obstructing the passage of other vehicles or pedestrians, notwithstanding any traffic control signal indication to proceed. (Ord. 92-19 § 111, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 111, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.130</num>
       <heading>Decrease of maximum speed limit between districts.</heading>
       <text>Whenever by resolution it is determined on the basis of an engineering and traffic investigation that the maximum speed limit of fifty-five miles per hour is more than is reasonable or safe upon any portion of a street or highway other than a state highway for a distance of not exceeding two thousand feet in length between districts, business or residential, the prima facie speed limit not less than twenty-five miles per hour, upon that portion shall be as determined in the resolution, and shall be effective when appropriate signs giving notice thereof are erected upon the street or highway. (Ord. 9219 § 112, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 9219 § 112, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.20.140</num>
       <heading>Regulations of traffic on freeways.</heading>
       <text>No person shall drive or operate any bicycle, motor driven cycle, or any vehicle which is not drawn by a motor vehicle upon any street established as a freeway or limited access highway, nor shall any pedestrian walk across or along any such street so established except in space set aside for the use of pedestrians, provided official signs are in place giving notice of such restrictions. (Ord. 92-19 § 113, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 113, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -487,21 +638,33 @@
         <num>B.</num>
         <text>Other than crosswalks at intersections, no crosswalk shall be established in any block which is less than four hundred feet in length. Elsewhere not more than one additional crosswalk shall be located as nearly as practicable at mid-block. (Ord. 92-19 § 140, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 140, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.24.020</num>
       <heading>When pedestrians must use crosswalks.</heading>
       <text>No pedestrian shall cross a roadway other than in a crosswalk in any business district, (established as State Route 29). (Ord. 92-19 § 141, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 141, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.24.030</num>
       <heading>Crossing at right angles.</heading>
       <text>No pedestrian shall cross a roadway at any place other than by a route at right angles to the curb or by the shortest route to the opposite curb except in a marked crosswalk. (Ord. 92-19 § 142, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 142, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.24.040</num>
       <heading>Standing in roadways.</heading>
       <text>No person shall stand in any roadway other than a safety zone or in a crosswalk if such action interferes with the lawful movement of traffic. This provisions shall not apply to any public officer or employee of a public utility when necessarily upon a street in line of duty. (Ord. 92-19 § 143, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 143, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.24.050</num>
@@ -515,6 +678,9 @@
         <num>B.</num>
         <text>"Red." No pedestrian shall start to cross the roadway in the direction of such signal, but any pedestrian who has partially completed his crossing on the walk signal shall proceed to a sidewalk or safety zone while the color red is showing. (Ord. 92-19 § 144, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 144, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -532,6 +698,9 @@
         <num>B.</num>
         <text>Those streets and parts of streets so marked are declared to be streets the use of which by any commercial vehicle is prohibited. The provisions of <cite path="|10.28.010">this section</cite> shall not apply to passenger buses under the jurisdiction of the public utilities commission. (Ord. 92-19 § 188, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 188, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.28.020</num>
@@ -548,12 +717,18 @@
         <num>C.</num>
         <text>The traffic engineer may, by written permit, authorize the operation of a vehicle or vehicles upon any of the streets hereinafter in <cite path="|10.28.030">Section 10.28.030</cite> set forth, when the total weight of such vehicle or vehicles exceeds the maximum weight prescribed in <cite path="|10.28.020">this section</cite>, if, in the judgment of the traffic engineer, streets upon which such vehicle is to be operated can safely withstand the additional weight for a limited operation. Such permit shall be granted upon such conditions and upon depositing such bond as the traffic engineer, may, in his discretion, require. (Ord. 92-19 § 189, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 189, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.28.030</num>
       <heading>Restricted streets.</heading>
       <text>The streets referred to in <cite path="|10.28.020">Section 10.28.020</cite> are described as follows:</text>
       <text>(Not determined upon initial enactment of the traffic code.) (Ord. 92-19 § 190, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 190, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.28.040</num>
@@ -561,6 +736,9 @@
       <text>When such streets are appropriately sign-posted, the use of the hereinafter described portions of the hereinafter named streets or highways by any motor vehicle (other than passenger buses) when the total weight of the vehicle and loads exceeds four and one-half tons, except for the purpose of loading and unloading thereon, is prohibited, between the hours of eleven p.m. and six a.m.</text>
       <text>The streets and portions thereof referred to in subsection A of <cite path="|10.28.040">this section</cite> are:</text>
       <text>(Not determined upon initial enactment of the traffic code.) (Ord. 92-19 § 191, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 191, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -578,11 +756,17 @@
         <num>B.</num>
         <text>The provisions of this code imposing a time limit on standing or parking shall not relieve any person from the duty to observe other and more restrictive provisions of the State <cite doc="Cal. Veh. Code">Vehicle Code</cite>, or the regulations of this city, prohibiting or limiting the standing or parking of vehicles in specified places or at specified times. (Ord. 92-19 § 150, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 150, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.020</num>
       <heading>Standing in parkways prohibited.</heading>
       <text>No person shall stop, stand or park a vehicle within any parkway. (Ord. 92-19 § 151, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 151, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.030</num>
@@ -595,6 +779,10 @@
         <num>B.</num>
         <text>In the event a vehicle is parked or left standing upon a street in excess of a consecutive period of seventy-two hours, any officer of the police department or any regularly employed and salaried civilian employee of the city who is engaged in the direction of traffic or enforcement of parking regulations when designated by the chief of police, may remove said vehicle from the street in the manner and subject to the requirements of Sections 22850 through 22854 inclusive of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the state of California. (Ord. 94-01 § 10, 1994; Ord. 92-19 § 152, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 94-01 § 10, 1994</annotation>
+        <annotation type="History">Ord. 92-19 § 152, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.040</num>
@@ -615,6 +803,9 @@
         <num>D.</num>
         <text>Whenever the traffic engineer has caused lines or markings painted or otherwise designated upon the parkway, curb, sidewalk, roadway, driveway or street in such a manner as to identify by the markings individual parking spaces, it shall be unlawful to park or leave standing any vehicle across any such line or marking or in any position other than within the parking area so designated by the markings. (Ord. 92-19 § 154, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 154, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.050</num>
@@ -627,6 +818,9 @@
         <num>B.</num>
         <text>When signs or markings are in place indicating angle parking as herein provided, no person shall park or stand a vehicle at other than the angle to the curb or edge of the roadway indicated by such signs or markings. (Ord. 92-19 § 155, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 155, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.060</num>
@@ -639,6 +833,9 @@
         <num>B.</num>
         <text>When official signs are erected indicating no parking upon that side of a street adjacent to any school property, no person shall park a vehicle in any such designated place. (Ord. 92-19 § 157, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 157, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.070</num>
@@ -651,6 +848,9 @@
         <num>B.</num>
         <text>When official signs or markings prohibiting parking are erected upon narrow streets as authorized herein, no person shall park a vehicle upon any such street in violation of any such sign or marking. (Ord. 92-19 § 158, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 158, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.080</num>
@@ -668,6 +868,9 @@
         <num>C.</num>
         <text>At any place where the traffic engineer determines that it is necessary in order to eliminate unusual traffic hazard. (Ord. 92-19 § 159, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 159, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.090</num>
@@ -680,6 +883,9 @@
         <num>B.</num>
         <text>When signs authorized by the provisions of <cite path="|10.32.090">this section</cite> are in place giving notice thereof, no person shall operate, park or stand any vehicle contrary to the directions and provisions of such signs. (Ord. 92-19 § 160, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 160, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.100</num>
@@ -692,6 +898,10 @@
         <num>B.</num>
         <text>When any vehicle above mentioned, or any trailer or semi-trailer is disabled upon streets or highways outside of any business or residence district within the city, and upon which street or highway there is insufficient street lighting to reveal a vehicle at a distance of two hundred feet during any time mentioned in <cite doc="Cal. Veh. Code" path="§280">Section 280 of the Vehicle Code</cite>, the warning signals of the character indicated above shall be immediately placed in the manner set forth in <cite doc="Cal. Veh. Code" path="§25300">California Vehicle Code Section 25300</cite>, subsections (b) through (d), inclusive, and shall be displayed continuously during the times mentioned in <cite doc="Cal. Veh. Code" path="§280">Vehicle Code Section 280</cite> while such vehicle remains disabled upon such street or highway. (Ord. 94-01 § 11, 1994; Ord. 92-19 § 161, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 94-01 § 11, 1994</annotation>
+        <annotation type="History">Ord. 92-19 § 161, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.110</num>
@@ -712,6 +922,9 @@
         <num>B.</num>
         <text>No person shall park a commercial vehicle on any street or portion thereof if such parking would, in the opinion of the traffic engineer, interfere with the reasonable and comfortable enjoyment of life or property of any person owning or occupying any nearby residence, apartment building, motel, hotel or any other single or multiple dwelling, and if such street or portion thereof has been posted with signs giving notice of such parking limitation. (Ord. 92-19 § 162, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 162, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.120</num>
@@ -725,11 +938,17 @@
         <num>B.</num>
         <text>When parked in connection with, and in aid of, the performance of a service to or on a property in the block in which such vehicle is parked and time in addition to such five-hour period is reasonably necessary to complete such. (Ord. 92-19 § 162.1, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 162.1, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.130</num>
       <heading>Ignition keys.</heading>
       <text>No person shall leave a motor vehicle, except a commercial vehicle, unattended on any street, alley, used car lot, or unattended parking lot without first stopping the engine, locking the ignition and removing the ignition key therefrom. Provided, however, that any violation of these provisions shall not mitigate the offense of stealing such motor vehicle nor shall such violation be used to effect a recovery in any civil action for theft of such motor vehicle, or the insurance thereon, or have any other bearing on any civil action. (Ord. 92-19 § 163, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 163, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.140</num>
@@ -758,6 +977,9 @@
         <num>D.</num>
         <text>Passenger loading zones shall be indicated by a white line painted upon the top of all curbs in such zones. (Ord. 92-19 § 170, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 170, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.150</num>
@@ -791,6 +1013,9 @@
         <num>B.</num>
         <text>Where curb markings have been heretofore placed by authority of this city and when the traffic engineer as authorized under this code, has caused curb markings to be placed, no person shall stop, stand or park a vehicle adjacent to any such legible curb marking in violation of any of the provisions of <cite path="|10.32.150">this section</cite>. (Ord. 92-19 § 171, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 171, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.160</num>
@@ -811,11 +1036,17 @@
         <num>B.</num>
         <text>When appropriate signs are in place, no person shall stop, stand or park a vehicle adjacent to a curb area posted as a loading zone except for the purpose of loading or unloading passengers or materials for such time as permitted in <cite path="|10.32.180">Section 10.32.180</cite> and except on Sundays and holidays. (Ord. 92-19 § 171.1, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 171.1, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.170</num>
       <heading>Curb markings to indicate driveways.</heading>
       <text>Upon the request of the owner or occupant, or the agent of either, of the premises being served by a driveway, or driveways, the traffic engineer shall cause to be painted in red, the curbs on each side of said driveway, or driveways, for a distance at least eighteen linear inches. (Ord. 92-19 § 171.2, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 171.2, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.180</num>
@@ -836,21 +1067,33 @@
         <num>D.</num>
         <text>Within the total time limits specified in <cite path="|10.32.180">this section</cite>, the provisions of <cite path="|10.32.180">this section</cite> shall be enforced so as to accommodate necessary and reasonable loading and unloading, but without permitting abuse of the privileges granted. (Ord. 92-19 § 172, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 172, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.190</num>
       <heading>Standing for loading or unloading only.</heading>
       <text>No person shall stop, stand or park a vehicle in any yellow zone for any purpose other than loading or unloading passengers or materials for such time as is permitted in <cite path="|10.32.180">Section 10.32.180</cite>. (Ord. 92-19 § 173, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 173, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.200</num>
       <heading>Standing in passenger loading zone.</heading>
       <text>No person shall stop, stand or park a vehicle in any passenger loading zone for any purpose other than the loading or unloading of passengers for such time as is specified in <cite path="|17.32.180">Section 17.32.180</cite>. (Ord. 92-19 § 174, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 174, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.210</num>
       <heading>Standing in any alley.</heading>
       <text>No person shall stop stand or park a vehicle for any purpose other than the loading or unloading of persons or materials in any alley. (Ord. 92-19 § 175, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 175, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.220</num>
@@ -875,46 +1118,73 @@
         <num>E.</num>
         <text>No person shall stop, stand or park any vehicle except a bus in a bus zone. (Ord. 92-19 § 176, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 176, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.230</num>
       <heading>Parking adjacent to curb.</heading>
       <text>When stopping to load or unload passengers it shall be unlawful for the operator of a bus, as defined in <cite path="|10.32.220">Section 10.32.220</cite>, to stop or park the bus at any place other than at a bus zone established pursuant to <cite path="|10.32.220">Section 10.32.220</cite>, and every such bus stopping or parking upon a street in such a bus zone where there are adjacent curbs shall be so stopped or parked with the right-hand wheels of such bus parallel with and within eighteen inches of the right-hand curb. (Ord. 92-19 § 176.1, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 176.1, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.240</num>
       <heading>One-hour parking.</heading>
       <text>When heretofore or hereafter provided by resolution, and appropriate signs are in place giving notice thereof, no person shall stop, stand or park any vehicle between the hours of eight am. and six p.m. of any day, except holidays, for a period of time longer than one hour on any street or any part of any street so indicated. (Ord. 92-19 § 180, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 180, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.250</num>
       <heading>Two-hour parking.</heading>
       <text>When heretofore or hereafter provided by resolution and appropriate signs are in place giving notice thereof, no person shall stop, stand or park any vehicle between the hours of eight a.m. and six p.m. of any day, except holidays, for a period of time longer than two hours on any street or any part of any street so indicated. (Ord. 92-19 § 181, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 181, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.260</num>
       <heading>Parking restrictions on municipal lots or areas.</heading>
       <text>When provided by resolution, and appropriate signs are in place and visible giving notice thereof, no person shall stop, stand or park any vehicle between the hours indicated in said resolution on any municipal parking lot or area, or part thereof, as so designated in said resolution; provided that notwithstanding any other provision of this code the council may by resolution provide for the issuance of special parking permits to authorize parking upon any municipal parking lot or area for the period of time and subject to the conditions specified therefor, and the fee to be charged for the permit. (Ord. 92-19 § 181.1, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 181.1, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.270</num>
       <heading>Citations and arrests.</heading>
       <text>Any police officer is authorized and empowered to issue citations to any person violating any of the provisions of this code or other ordinances by the police department of the city. (Ord. 92-19 § 181.2, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 181.2, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.280</num>
       <heading>Stopping, standing or parking prohibited during certain hours.</heading>
       <text>When heretofore or hereafter provided by resolution, and appropriate signs are in place giving notice thereof, no person shall stop, stand or park any vehicle between the hours indicated of any day, except holidays, on any street or any part of any street so indicated. (Ord. 92-19 § 182, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 182, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.290</num>
       <heading>Parking prohibited at all times.</heading>
       <text>When heretofore or hereafter provided by resolution, and appropriate signs are in place giving notice thereof, no person shall park any vehicle at any time on any street or part of any street so indicated. (Ord. 92-19 § 183, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 183, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.300</num>
       <heading>Parking prohibited between certain hours.</heading>
       <text>No person shall park any vehicle between certain hours of three a.m. and six a.m. of any day on any street or part of any street hereafter designated by resolution of the city and by appropriate signs giving notice thereof. (Ord. 92-19 § 183.1, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 183.1, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -987,6 +1257,9 @@
       <text>"Street rod vehicle" means any motor vehicle, other than a motorcycle, manufactured in or prior to 1948 which has been individually modified in its body style or design, including through the use of nonoriginal or reproduction components, and which may include additional modifications to other components, including, but not limited to, the engine, drive train, suspension, and brakes in a manner that does not adversely affect its safe performance as a motor vehicle or render it unlawful for highway use.</text>
       <text>"Total loss salvage vehicle" means a vehicle, other than a nonrepairable vehicle, of a type subject to registration that has been wrecked, destroyed, or damaged, to such an extent that the owner, leasing company, financial institution or the insurance company that insured the vehicle considers it uneconomical to repair by or for the person who owned the vehicle at the time of the event resulting in damage.</text>
       <text>"Vehicle" means a device by which any person or property may be propelled, moved, or drawn upon a highway, except a device moved by human power or used exclusively upon stationary rails or tracks. (Ord. 97-08 § 2, 1998)</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.030</num>
@@ -1048,6 +1321,10 @@
           </para>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2000-07 § 1, 2000</annotation>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.040</num>
@@ -1073,6 +1350,9 @@
         <num>E.</num>
         <text>No vehicles stored on private property shall be used for the storage of garbage or refuse, or as living quarters, unless otherwise authorized by the city. (Ord. 97-08 § 2, 1998)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.050</num>
@@ -1083,16 +1363,25 @@
       <num>10.36.060</num>
       <heading>Officer designated—Authority to enter private property.</heading>
       <text>Except as otherwise provided in <cite path="10.36">this chapter</cite>, the provisions of <cite path="10.36">this chapter</cite> shall be administered and enforced by the vehicle abatement officer as designated by the city manager. In the enforcement of <cite path="10.36">this chapter</cite>, such officer and his deputies may enter upon property with the written permission of the owner or resident of the property or upon obtaining an inspection warrant pursuant to Section 1822.50 et seq., of the state Code of Civil Procedure, or other necessary judicial authorization, to examine a vehicle, or parts thereof, obtain information as to the identity of a vehicle, and remove or cause the removal of a vehicle or part thereof declared to be a nuisance pursuant to <cite path="10.36">this chapter</cite>. (Ord. 97-08 § 2, 1998)</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.070</num>
       <heading>Authority of private contractor.</heading>
       <text>When the council has contracted with or granted a franchise to any person or persons to remove vehicles pursuant to <cite path="10.36">this chapter</cite>, such person or persons shall be authorized to enter upon private property or public property to remove or cause the removal of a vehicle or parts thereof declared to be a nuisance pursuant to <cite path="10.36">this chapter</cite>. When legally required, the contractor shall obtain an inspection warrant pursuant to state <cite doc="Cal. Civ. Proc. Code" path="§1822.050">Code of Civil Procedure Section 1822.050</cite> et seq., or other appropriate judicial authorization before entering the property. (Ord. 97-08 § 2, 1998)</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.080</num>
       <heading>Authority to abate and remove.</heading>
       <text>Upon discovering the existence of an abandoned, wrecked, dismantled or inoperative vehicle, or parts thereof, which is not lawfully parked or stored pursuant to Sections <cite path="|10.36.030">10.36.030</cite> and <cite path="|10.36.040">10.36.040</cite> of <cite path="10.36">this chapter</cite>, the vehicle abatement officer shall have the authority to cause the abatement and removal thereof in accordance with the procedures described herein. (Ord. 97-08 § 2, 1998)</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.090</num>
@@ -1158,6 +1447,9 @@
           <text>If the vehicle is valued at less than three hundred dollars by the city's police chief or designee, and all of the requirements set forth in subsection (C)(2) of <cite path="|10.36.090">this section</cite> are not met, the vehicle may be disposed of pursuant to the procedures set forth in Sections <cite doc="Cal. Veh. Code" path="§22851.2">22851.2</cite> through <cite doc="Cal. Veh. Code" path="§22851.10">22851.10</cite> of the <cite doc="Cal. Veh. Code">Vehicle Code</cite>. (Ord. 97-08 § 2, 1998)</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.100</num>
@@ -1182,16 +1474,26 @@
         <num>E.</num>
         <text>An interested party may appeal the order of the city manager or the designated hearing officer to the city council or the city planning commission or a panel comprised of three residents of the city as designated annually by the city council by filing a written request for appeal within the city clerk. A hearing before the appropriate appellate body shall be held within thirty days of the filing of the appeal request preceded by a ten-day notice of the appeal hearing which shall be posted in the same manner and form as regular meetings of the city council. Upon conclusion of the hearing by the designated appellate body, a decision consistent with the provisions of <cite path="|10.36.100">this section</cite> shall be prepared and mailed as provided in <cite path="|10.36.100">this section</cite>. (Ord. 99-11 § 2, 1999; Ord. 97-08 § 2, 1998)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 99-11 § 2, 1999</annotation>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.110</num>
       <heading>Vehicle disposal.</heading>
       <text>Notice of the final order declaring the vehicle or parts thereof to be a public nuisance shall be mailed to the owner of the real property upon which the vehicle is located and to the record owner of the vehicle by the city manager or the designated hearing officer or the designated appellate body after conclusion of the hearing. After fifteen days from the date of the mailing of the notice of the final order, the vehicle or parts thereof may be disposed of by removal in the manner authorized by law to a scrap yard or automobile dismantler yard. After a vehicle has been removed, it shall not thereafter be reconstructed or made operable unless it is a vehicle which qualifies for either horseless carriage license plate or a historical vehicle license pursuant to Section 5004 of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>, in which case the vehicle may be reconstructed or made operable. (Ord. 97-08 § 2, 1998)</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.120</num>
       <heading>Abatement of motor vehicles.</heading>
       <text>Abatement of any motor vehicle registered or subject to registration with the state Department of Motor Vehicles shall be carried out and conform with the provisions of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite> and <cite path="10.36">this chapter</cite>. (Ord. 97-08 § 2, 1998)</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.130</num>
@@ -1256,6 +1558,9 @@
         <num>M.</num>
         <text>Definition of Abatement Costs. For the purposes of <cite path="|10.36.130">this section</cite>, abatement costs shall include, but not be limited to, the city's costs incurred in removing the vehicle from the property by its own personnel, or by contract with a third party, costs incurred in giving required notices to the property owner and the owner of the vehicle, enforcement costs, including but not limited to, inspections, communications with the property and vehicle owner, and legal costs incurred in any judicial, administrative or special proceeding to abate the vehicle, and costs for the obtaining of an inspection warrant or other judicial order which authorizes removal of the vehicle from the property. Attorneys' fees may be awarded to any prevailing party in the action, but shall not in any case, exceed the reasonable amount of attorneys' fees incurred by the city in the action or proceeding. The city may designate at the beginning of any judicial, administrative or special proceeding whether it will apply for an award of attorney's fees to the prevailing party. (Ord. 99-11 § 3, 1999)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 99-11 § 3, 1999</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1266,31 +1571,49 @@
       <num>10.40.010</num>
       <heading>Obstructions at intersections prohibited.</heading>
       <text>Notwithstanding any other provisions of law to the contrary, no fence, hedge, shrub, wall, retaining wall, earthen bank, or other landscaping or screening which exceeds a height of three feet above the street-pavement grade shall be allowed along the property lines or their projection, which is equal to the sum of the building setbacks on each of the two intersecting streets, existing or legal, whichever is less, or, within the area subtended. (Ord. 92-19 § 220, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 220, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.020</num>
       <heading>Exceptions.</heading>
       <text>The foregoing provisions shall not apply to a permanent building or to trees which are trimmed to eliminate foliage for a distance of eight feet above the street-pavement grade. (Ord. 92-19 § 221, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 221, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.030</num>
       <heading>Authority of traffic engineer.</heading>
       <text>The traffic engineer of the city, upon ascertaining that a violation of the above provisions exists, shall give written notice of the violation to the owner of the property involved. Such notice shall be given in the same manner and with the same effect as provided in <cite doc="Cal. Civ. Proc. Code" path="§1013">Section 1013 of the California Code of Civil Procedure</cite>. (Ord. 92-19 § 222, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 222, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.040</num>
       <heading>Responsibility of owner.</heading>
       <text>The property owner to whom the notice is given shall, within twenty days after the giving of notice by the Traffic Engineer, as provided in the preceding section, do whatever is necessary on his or her property to eliminate the violation of the provisions of <cite path="10.40">this chapter</cite>. (Ord. 92-19 § 223, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 223, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.050</num>
       <heading>Appeal procedure.</heading>
       <text>The property owner to whom notice has been given, as hereinabove provided, may, within ten days after the giving of such notice, file with the traffic engineer a written notice of appeal. The city public safety committee shall have the power, in exceptional cases, where it is impractical or physically impossible to comply with the strict letter of <cite path="10.40">this chapter</cite>, and in order to provide for reasonable interpretations thereof, to modify the requirements of <cite path="10.40">this chapter</cite>, in such a manner that the public welfare is secured, and substantial justice done, nearly in accord with the intent and purpose of <cite path="10.40">this chapter</cite>. The determination and decision of the committee shall be final and conclusive. (Ord. 92-19 § 224, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 224, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.060</num>
       <heading>Nuisance.</heading>
       <text>A condition which is in violation of the provisions of <cite path="10.40">this chapter</cite> is hereby declared to be a public nuisance. The city is authorized to abate such nuisance by entering onto the property and removing the condition. (Ord. 92-19 § 225, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 225, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.070</num>
@@ -1311,6 +1634,9 @@
         <num>B.</num>
         <text>Costs incurred in such abatement shall remain a lien upon the property described in the lien notice until paid in full, plus accrued interest at the rate of seven percent per annum from the date of recordation. The statute of limitations shall not run against the city's right to enforce payment of such lien. (Ord. 92-19 § 226, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 226, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.080</num>
@@ -1323,6 +1649,9 @@
         <num>B.</num>
         <text>The assessment shall be subject to the same penalties and interest and to the same procedure under foreclosure and sale in case of delinquency as is provided for all other municipal and county taxes against the property; and all laws applicable to the levy, collection and enforcement to such special assessment. (Ord. 92-19 § 227, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 227, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1340,6 +1669,9 @@
         <num>B.</num>
         <text>No operator shall allow a person riding as a passenger on a bicycle, and no person shall ride as a passenger on a bicycle, upon a highway other than upon or astride a separate seat attached thereto. If the passenger is a child, the seat shall have adequate provisions for retaining the child in place and for protecting the child from the moving parts of the bicycle. (Ord. 92-19 § 121, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 121, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.020</num>
@@ -1352,6 +1684,9 @@
         <num>B.</num>
         <text>No person shall operate upon a highway a bicycle which is of such a size as to prevent the operator from stopping the bicycle, supporting it in an upright position with at least one foot on the highway surface, and restarting it in a safe manner. (Ord. 92-19 § 122, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 122, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.030</num>
@@ -1368,6 +1703,9 @@
         <num>C.</num>
         <text>Notwithstanding subsections A and B of <cite path="|10.44.030">this section</cite>, no person shall park a bicycle at any location which has been posted with signs prohibiting such parking. (Ord. 92-19 § 123, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 123, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.040</num>
@@ -1385,6 +1723,9 @@
       <num>10.44.050</num>
       <heading>Licensing agency.</heading>
       <text>The American Canyon fire protection district, a subsidiary district of the city, shall be responsible for carrying out the provisions of <cite path="10.44">this chapter</cite> and is authorized and directed to register and license bicycles upon a written application for a license and the payment of the required fee. (Ord. 92-19 § 125, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 125, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.060</num>
@@ -1430,6 +1771,9 @@
         <num>J.</num>
         <text>A place for the name of the licensing agency. (Ord. 92-19 § 126, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 126, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.070</num>
@@ -1446,11 +1790,17 @@
         <num>C.</num>
         <text>Records shall be maintained by each licensing agency during the period of validity of the license. (Ord. 92-19 § 127, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 127, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.080</num>
       <heading>Licensing and registration fees.</heading>
       <text>Upon an application for registration and licensing, the fee required pursuant to the provisions of <cite path="10.44">this chapter</cite> shall be five dollars for a five-year license. (Ord. 92-19 § 128, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 128, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.090</num>
@@ -1463,11 +1813,17 @@
         <num>B.</num>
         <text>Revenues from the registration, replacement, and renewal of the license shall be paid to the director of finance monthly, and shall be retained by the city in a separate account, and shall be used for the support of the bicycle licensing and registration programs, and to improve bicycle safety programs, and to establish bicycle facilities, including bicycle paths and lanes, within the incorporated city limits. (Ord. 92-19 § 129, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 129, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.100</num>
       <heading>Renewal of expired licenses.</heading>
       <text>The owner of a bicycle may have an expired bicycle license renewed upon the presentation of the bicycle, the last issued registration form or its copy, and the payment of the fee prescribed. (Ord. 92-19 § 130, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 130, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.110</num>
@@ -1480,11 +1836,17 @@
         <num>B.</num>
         <text>Any person who purchases or otherwise acquires the possession of a bicycle shall, within ten days of taking such possession, apply for the transfer of the license for such bicycle to his name. (Ord. 92-19 § 131, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 131, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.120</num>
       <heading>Notification of change of address.</heading>
       <text>Whenever the owner of a registered bicycle licensed pursuant to <cite path="10.44">this chapter</cite> changes his address, he shall, within ten days, notify the licensing agency of the old and new address. (Ord. 92-19 § 132, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 132, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.130</num>
@@ -1501,21 +1863,33 @@
         <num>C.</num>
         <text>It shall be unlawful for any person to remove, alter, or mutilate the serial number of any bicycle frame licensed pursuant to the provisions of <cite path="10.44">this chapter</cite>. (Ord. 92-19 § 133, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 133, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.140</num>
       <heading>Bicycles in violation of laws.</heading>
       <text>The licensing agency shall have the right to impound and retain the possession of any bicycle on which the manufacturer's identification numbers have been altered, defaced, removed or destroyed. (Ord. 92-19 § 134, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 134, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.150</num>
       <heading>Rental agencies.</heading>
       <text>A rental agency operating within the city shall not rent or offer any bicycle for rent unless such bicycle is licensed as provided in <cite path="10.44">this chapter</cite>. (Ord. 92-19 § 135, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 135, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.160</num>
       <heading>Violations.</heading>
       <text>Any violation of the provisions of <cite path="10.44">this chapter</cite> shall be an infraction. (Ord. 92-19 § 136, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 136, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.44.170</num>
@@ -1532,6 +1906,9 @@
         <num>C.</num>
         <text>After a "mechanical warning ticket" is issued advising of the new bike license program, a fine of ten dollars or proof of correction shall be written in. (Ord. 92-19 § 137, 1992)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 137, 1992</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1542,11 +1919,18 @@
       <num>10.48.010</num>
       <heading>Violation—Penalty.</heading>
       <text>Every person convicted of an infraction for a violation of this code shall be punished upon a first conviction by a fine not exceeding one hundred dollars and for a second conviction within a period of one year by a fine of not exceeding two hundred dollars and for a third or any subsequent conviction within a period of one year by a fine of not exceeding two hundred fifty dollars. (Ord. 94-01 § 12, 1994; Ord. 92-19 § 10, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 94-01 § 12, 1994</annotation>
+        <annotation type="History">Ord. 92-19 § 10, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.020</num>
       <heading>Penalties for violations of specific sections of this title.</heading>
       <text>Every person convicted of a misdemeanor for violation of any of the provisions of Sections <cite path="|10.24.010">10.24.010</cite> through <cite path="|10.24.050">10.24.050</cite>, <cite path="|10.32.010">10.32.010</cite> through <cite path="|10.32.300">10.32.300</cite>, <cite path="|10.40.010">10.40.010</cite> through <cite path="|10.40.080">10.40.080</cite>, and <cite path="|10.44.010">10.44.010</cite> through <cite path="|10.44.170">10.44.170</cite>, except where a different penalty is expressly provided in said articles, shall be punished upon a first conviction by a fine not exceeding fifty dollars or more or by imprisonment in the county jail for not exceeding five days, and for a second conviction within a period of one year by a fine not exceeding one hundred dollars, or by imprisonment in the county jail for not exceeding ten days, or by both such fines and imprisonment, and for a third or any subsequent conviction within said period of one year by a fine of not exceeding five hundred dollars, or by imprisonment in the county jail for not exceeding six months, or by both such fine and imprisonment. (Ord. 92-19 § 11, 1992)</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 11, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.030</num>
@@ -1559,6 +1943,9 @@
         <num>B.</num>
         <text>Imposition of any civil penalty for a vehicle parking or standing violation may be contested in accordance with the procedures set forth in Division 17, Chapter 1, Article <cite doc="Cal. Veh. Code" path="§3">3 of the Vehicle Code</cite> entitled Procedure on Parking Violations (commencing with <cite doc="Cal. Veh. Code" path="§40200">Vehicle Code Section 40200</cite>). (Ord. 93-12 § 1, 1993)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 93-12 § 1, 1993</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1585,6 +1972,10 @@
         <num>D.</num>
         <text>Increase the number of their employees that arrive at the worksite by means other than single occupant vehicles. (Ord. 2020-05 § 5, 2020; Ord. 93-14 § 1, 1993)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 93-14 § 1, 1993</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.52.020</num>
@@ -1601,6 +1992,10 @@
         <num>C.</num>
         <text>The city of American Canyon is located within the BAAQMD jurisdiction and therefore subject to the BAAQMD "Commute Benefit Ordinance." (Ord. 2020-05 § 5, 2020; Ord. 93-14 § 2, 1993)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 93-14 § 2, 1993</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.52.030</num>
@@ -1618,6 +2013,10 @@
         <num>C.</num>
         <text>Transportation demand management techniques including, but not limited to, ridesharing, transit, compressed work weeks and bicycle use among employees are effective means of reducing work related trips. A reduction in the number of trips will reduce congestion and vehicle emissions. (Ord. 2020-05 § 5, 2020; Ord. 93-14 § 2, 1993)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 93-14 § 2, 1993</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.52.040</num>
@@ -1652,11 +2051,19 @@
       <text>"Work activity" means any activity for which an employee receives remuneration from an employer. Telecommuting is a work activity.</text>
       <text>"Work site" means any property, real or personal, which is being operated, utilized, maintained, or owned by an employer as part of an identifiable enterprise. All property on contiguous, adjacent, or proximate sites separated only by a private or public roadway or other private or public right-of-way, served by a common circulation or access system, and not separated by an impassable barrier to bicycle or pedestrian travel such as a freeway or flood control channel is included as part of the work site. If two or more employers each have one hundred or more employees at a single work site, then that work site is considered a separate work site for each employer. (BAAQMD Section 12-1-232)</text>
       <text>"Zone" means a geographical area within the district where the performance objectives contained in <cite path="|10.52.050|(D)">Section 10.52.050(D) </cite>apply to employers with work sites located within that zone. Zone 4—Napa County. (BAAQMD Section 13-1-233) (Ord. 2020-05 § 5, 2020; Ord. 93-14 § 3, 1993)</text>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 93-14 § 3, 1993</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.52.045</num>
       <heading>Compliance.</heading>
       <text>Notification to Covered Employers. The APCO will provide notice to covered employers within the district regarding the adoption and implementation of this rule by means of written notice and/or email notification. (Ord. 2020-05 § 5, 2020; Ord. 95-12 § 1, 1995)</text>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 95-12 § 1, 1995</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.52.050</num>
@@ -2294,6 +2701,10 @@
           </para>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 93-14 § 4, 1993</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2403,6 +2814,10 @@
         </table>
       </text>
       <text>(Ord. 2017-02 § 1, 2017; Ord. 2016-10 § 1, 2016)</text>
+      <annotations>
+        <annotation type="History">Ord. 2017-02 § 1, 2017</annotation>
+        <annotation type="History">Ord. 2016-10 § 1, 2016</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -2421,6 +2836,9 @@
         <num>B.</num>
         <text>Corvina Court. (Ord. 2016-11 § 1, 2016)</text>
       </para>
+      <annotations>
+        <annotation type="History">Ord. 2016-11 § 1, 2016</annotation>
+      </annotations>
     </section>
   </container>
 </container>
