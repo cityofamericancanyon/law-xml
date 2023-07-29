@@ -33,7 +33,7 @@ install:
   - ps: $key += $env:GH_SSH_PRIVATE_KEY.Replace(" ", "`n")
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
-  - set US_CA_CITIES_AMERICAN_CANYON_XML_CODIFIED_PATH=..\cityofsanmateo\law-xml-codified-preview
+  - set US_CA_CITIES_AMERICAN_CANYON_XML_CODIFIED_PATH=..\cityofamericancanyon\law-xml-codified-preview
 
 
 before_build:
