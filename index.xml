@@ -13,7 +13,7 @@
       <law-git>https://github.com/cityofamericancanyon/law.git</law-git>
       <html/>
     </canonical-urls>
-    <history-start>2021-12-31</history-start>
+    <history-start>2023-06-01</history-start>
   </meta>
   <xi:include href="./us/ca/cities/american-canyon/code/index.xml"/>
   <collection name="us/ca/cities/american-canyon/ordinances">
