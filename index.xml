@@ -21,4 +21,5 @@
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
   </collection>
+  <xi:include href="./us/ca/cities/american-canyon/drafting-manual/index.xml"/>
 </library>
