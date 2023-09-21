@@ -20,6 +20,36 @@
     <heading>Ordinances</heading>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2021/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2020/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2019/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2018/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2017/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2016/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2015/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2014/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2013/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2012/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2011/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2010/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2009/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2008/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2007/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2006/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2005/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2004/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2003/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2002/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2001/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2000/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1999/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1998/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1997/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1996/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1995/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1994/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1993/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/1992/index.xml"/>
   </collection>
   <xi:include href="./us/ca/cities/american-canyon/drafting-manual/index.xml"/>
 </library>
