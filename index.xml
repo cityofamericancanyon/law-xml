@@ -18,6 +18,7 @@
   <xi:include href="./us/ca/cities/american-canyon/code/index.xml"/>
   <collection name="us/ca/cities/american-canyon/ordinances">
     <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2024/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2021/index.xml"/>
