@@ -11,7 +11,7 @@
       <html-bulk>https://github.com/cityofamericancanyon/law-html</html-bulk>
       <static-assets>https://github.com/cityofamericancanyon/law-static-assets</static-assets>
       <law-git>https://github.com/cityofamericancanyon/law.git</law-git>
-      <html/>
+      <html>https://law.cityofamericancanyon.org</html>
     </canonical-urls>
     <history-start>2023-06-01</history-start>
   </meta>
