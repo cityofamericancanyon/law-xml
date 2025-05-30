@@ -44,7 +44,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE,</conjunction>
-      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN THAT CHAPTER 19.09 - INDUSTRIAL COMMERCE CENTERS SUSTAINABILITY STANDARDS IS HEREBY ADDED TO THE MUNICIPAL CODE OF THE CITY OF AMERICAN CANYON AS FOLLOWS:</text>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN THAT <cite doc="City of American Canyon, Cal., Code" path="19.09">CHAPTER 19.09</cite> - INDUSTRIAL COMMERCE CENTERS SUSTAINABILITY STANDARDS IS HEREBY ADDED TO THE MUNICIPAL CODE OF THE CITY OF AMERICAN CANYON AS FOLLOWS:</text>
     </recital>
   </recitals>
   <codify:insert path="19|1" after="19.05">
@@ -54,61 +54,67 @@
       <heading>Industrial Commerce Centers Sustainability Standards</heading>
     </container>
   </codify:insert>"
-  <container>
-    <heading>Chapter 19.09 – Industrial Commerce Centers Sustainability Standards</heading>
-    <section>
-      <codify:insert path="19.09"/>
-      <num>19.09.010</num>
-      <heading>Applicability</heading>
-      <text>This Article is applicable to all warehousing, logistics and distribution facilities throughout the city for which a Notice of Preparation is issued after March 1, 2024 under the implementing Guidelines of the California Environmental Quality Act (CEQA).</text>
-      <text>A warehousing, logistics or distribution facility means facilities used for the storage and/or consolidation of manufactured goods (and to a lesser extent, raw materials and excludes bulk storage of materials, which are flammable or explosive or create hazardous or commonly recognized offensive conditions) before their distribution to retail locations or other warehouses. The facilities are generally greater than 200,000 square feet in size, with a land coverage ratio of approximately 50 to 80 percent, and a dock-high loading door ratio of approximately 1:5,000-8,000 square feet. They are characterized by dock high loading doors, could be on opposing sides of the building (cross dock facility); significant movement and storage of products, materials, or equipment; truck activities frequently outside of the peak hour of the adjacent street system; and freeway access, including:</text>
-    <text>
-      <ul>
-        <li>Freight yards/forwarding terminals</li>
-        <li>Warehousing distribution/high cube distribution centers</li>
-        <li>Moving agencies</li>
-        <li>Parcel delivery terminals</li>
-        <li>Railroad freight stations</li>
-        <li>Shipping/receiving yards</li>
-        <li>Truck terminals</li>
-      </ul>
-    </text>
-    <text>The following sections shall supersede any existing requirements in the Municipal Code and Specific Plans.</text>
-  </section>
-    <section>
-    <codify:insert path="19.09"/>
-      <num>19.09.020</num>
-      <heading>Requirements for warehousing, logistics or distribution facilities for which a Notice of Preparation is issued after March 1, 2024 under CEQA.</heading>
-      <para>
-        <num codify:value="(a)">1.</num>
-        <text>On-site motorized operational equipment, including but not limited to forklifts, yard trucks, and pallet jacks, shall be ZE (zero emission). This includes electrical hook ups to the power grid, rather than diesel-fueled generators, for contractors' electric construction tools, such as saws, drills and compressors.</text>
-      </para>
-      <para>
-        <num codify:value="(b)">2.</num>
-        <text>All outdoor cargo handling equipment (including yard trucks, hostlers, yard goats, pallet jacks, forklifts, and landscaping equipment) shall be zero-emission vehicles. Each building shall include the necessary charging stations or other necessary infrastructure for zero-emission cargo handling equipment.</text>
-      </para>
-      <para>
-        <num codify:value="(c)">3.</num>
-        <text>Prior to issuance of a business license, the City shall ensure rooftop solar panels are installed and can be operated in such a manner that they will supply 100% of the power needed to operate all non-refrigerated portions of the facility including the parking areas.</text>
-      </para>
-      <para>
-        <num codify:value="(d)">4.</num>
-        <text>Unless the owner of the facility records a covenant on the title of the underlying property ensuring that the property cannot be used to provide chilled, cooled, or freezer warehouse space, a conduit shall be installed during construction of the building shell from the electrical room to 100% of the loading dock doors that have potential to serve the refrigerated space. When tenant improvement building permits are issued for any refrigerated warehouse space, electric plug-in units shall be installed at every dock door servicing the refrigerated space to allow transport refrigeration units (TRUs) to plug in. Truck operators with TRUs shall be required to utilize electric plug-in units when at loading docks.</text>
-      </para>
-      <para>
-        <num codify:value="(e)">5.</num>
-        <text>All generators, and all diesel-fueled off-road construction equipment greater than 75 horsepower, will be zero-emissions or equipped with CARB Tier IV-compliant engines (as set forth in Section 2423 of Title 13 of the California Code of Regulations, and Part 89 of Title 40 of the Code of Federal Regulations) or better by including this requirement in applicable bid documents, purchase orders, and contracts with successful contractors. After either (1) the completion of grading or, (2) the completion of an electrical hookup at the site, whichever is first, require all generators and all diesel-fueled off-road construction equipment, to be zero-emissions or equipped with CARB Tier IV-compliant engines (as set forth in Section 2423 of Title 13 of the California Code of Regulations, and Part 89 of Title 40 of the Code of Federal Regulations) or better by including this requirement in applicable bid documents, purchase orders, and contracts with successful contractors. An exemption from these requirements may be granted by the City in the event that the applicant documents that equipment with the required tier is not reasonably available and corresponding reductions in criteria air pollutant emissions are achieved from other construction equipment.</text>
-      </para>
-      <para>
-        <num codify:value="(f)">6.</num>
-        <text>Prior to certificate of occupancy, install conduit and infrastructure for Level 2 (or faster) electric vehicle charging stations on-site for employees for the percentage of employee parking spaces commensurate with Title 24 requirements in effect at the time of building permit issuance plus additional charging stations equal to 5% of the total employee parking spaces in the building permit, whichever is greater. By 2030 install Level 2 (or faster) electric vehicle charging stations for 25% of the employee parking spaces required.</text>
-      </para>
-      <para>
-        <num codify:value="(g)">7.</num>
-        <text>Install HVAC and/or HEPA air filtration systems in all warehouse facilities.</text>
-      </para>
-    </section>
-  </container>
+  <include>
+    <container name="law">
+      <prefix>Chapter</prefix>
+      <num>19.09</num>
+      <heading>Industrial Commerce Centers Sustainability Standards</heading>
+      <section>
+        <codify:insert path="19.09"/>
+        <prefix codify:value="">Sec.</prefix>
+        <num>19.09.010</num>
+        <heading>Applicability</heading>
+        <text>This Article is applicable to all warehousing, logistics and distribution facilities throughout the city for which a Notice of Preparation is issued after March 1, 2024 under the implementing Guidelines of the California Environmental Quality Act (CEQA).</text>
+        <text>A warehousing, logistics or distribution facility means facilities used for the storage and/or consolidation of manufactured goods (and to a lesser extent, raw materials and excludes bulk storage of materials, which are flammable or explosive or create hazardous or commonly recognized offensive conditions) before their distribution to retail locations or other warehouses. The facilities are generally greater than 200,000 square feet in size, with a land coverage ratio of approximately 50 to 80 percent, and a dock-high loading door ratio of approximately 1:5,000-8,000 square feet. They are characterized by dock high loading doors, could be on opposing sides of the building (cross dock facility); significant movement and storage of products, materials, or equipment; truck activities frequently outside of the peak hour of the adjacent street system; and freeway access, including:</text>
+        <text>
+          <ul>
+            <li>Freight yards/forwarding terminals</li>
+            <li>Warehousing distribution/high cube distribution centers</li>
+            <li>Moving agencies</li>
+            <li>Parcel delivery terminals</li>
+            <li>Railroad freight stations</li>
+            <li>Shipping/receiving yards</li>
+            <li>Truck terminals</li>
+          </ul>
+        </text>
+        <text>The following sections shall supersede any existing requirements in the Municipal Code and Specific Plans.</text>
+      </section>
+      <section>
+        <codify:insert path="19.09"/>
+        <prefix codify:value="">Sec.</prefix>
+        <num>19.09.020</num>
+        <heading>Requirements for warehousing, logistics or distribution facilities for which a Notice of Preparation is issued after March 1, 2024 under CEQA.</heading>
+        <para>
+          <num codify:value="(a)">1.</num>
+          <text>On-site motorized operational equipment, including but not limited to forklifts, yard trucks, and pallet jacks, shall be ZE (zero emission). This includes electrical hook ups to the power grid, rather than diesel-fueled generators, for contractors' electric construction tools, such as saws, drills and compressors.</text>
+        </para>
+        <para>
+          <num codify:value="(b)">2.</num>
+          <text>All outdoor cargo handling equipment (including yard trucks, hostlers, yard goats, pallet jacks, forklifts, and landscaping equipment) shall be zero-emission vehicles. Each building shall include the necessary charging stations or other necessary infrastructure for zero-emission cargo handling equipment.</text>
+        </para>
+        <para>
+          <num codify:value="(c)">3.</num>
+          <text>Prior to issuance of a business license, the City shall ensure rooftop solar panels are installed and can be operated in such a manner that they will supply 100% of the power needed to operate all non-refrigerated portions of the facility including the parking areas.</text>
+        </para>
+        <para>
+          <num codify:value="(d)">4.</num>
+          <text>Unless the owner of the facility records a covenant on the title of the underlying property ensuring that the property cannot be used to provide chilled, cooled, or freezer warehouse space, a conduit shall be installed during construction of the building shell from the electrical room to 100% of the loading dock doors that have potential to serve the refrigerated space. When tenant improvement building permits are issued for any refrigerated warehouse space, electric plug-in units shall be installed at every dock door servicing the refrigerated space to allow transport refrigeration units (TRUs) to plug in. Truck operators with TRUs shall be required to utilize electric plug-in units when at loading docks.</text>
+        </para>
+        <para>
+          <num codify:value="(e)">5.</num>
+          <text>All generators, and all diesel-fueled off-road construction equipment greater than 75 horsepower, will be zero-emissions or equipped with CARB Tier IV-compliant engines (as set forth in Section 2423 of Title 13 of the California Code of Regulations, and Part 89 of Title 40 of the Code of Federal Regulations) or better by including this requirement in applicable bid documents, purchase orders, and contracts with successful contractors. After either (1) the completion of grading or, (2) the completion of an electrical hookup at the site, whichever is first, require all generators and all diesel-fueled off-road construction equipment, to be zero-emissions or equipped with CARB Tier IV-compliant engines (as set forth in Section 2423 of Title 13 of the California Code of Regulations, and Part 89 of Title 40 of the Code of Federal Regulations) or better by including this requirement in applicable bid documents, purchase orders, and contracts with successful contractors. An exemption from these requirements may be granted by the City in the event that the applicant documents that equipment with the required tier is not reasonably available and corresponding reductions in criteria air pollutant emissions are achieved from other construction equipment.</text>
+        </para>
+        <para>
+          <num codify:value="(f)">6.</num>
+          <text>Prior to certificate of occupancy, install conduit and infrastructure for Level 2 (or faster) electric vehicle charging stations on-site for employees for the percentage of employee parking spaces commensurate with Title 24 requirements in effect at the time of building permit issuance plus additional charging stations equal to 5% of the total employee parking spaces in the building permit, whichever is greater. By 2030 install Level 2 (or faster) electric vehicle charging stations for 25% of the employee parking spaces required.</text>
+        </para>
+        <para>
+          <num codify:value="(g)">7.</num>
+          <text>Install HVAC and/or HEPA air filtration systems in all warehouse facilities.</text>
+        </para>
+      </section>
+    </container>
+  </include>
   <section>
     <num>1</num>
     <text>CEQA FINDINGS. The City Council finds the municipal code amendments are exempt from environmental review under CEQA as it is not a Project under CEQA Guidelines Section 15378(b) and is categorically exempt under CEQA Guidelines Section 15308 "Actions by Regulatory Agencies for Protection of the Environment and a Notice of Exemption has been prepared for this proposed amendment.</text>
