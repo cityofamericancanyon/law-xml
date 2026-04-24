@@ -145,7 +145,7 @@
       </text>
     </para>
     <codify:replace path="19.11.040">
-      <section>  
+      <section>
         <num>19.11.040</num>
         <heading>Permitted uses.</heading>
         <text>Table 1 of <cite doc="City of American Canyon, Cal., Code" path="|19.11.040">this section</cite> sets forth the permitted and conditionally permitted uses for each commercial district. A "P" designates a permitted use. A "C" indicates a conditionally permitted use subject to approval of a use permit by the planning commission. An "M" indicates a minor use permit is required pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.42">Chapter 19.42</cite>. If no letter is found opposite a particular use, it is not permitted in that district.</text>
@@ -216,7 +216,7 @@
               </tr>
               <tr>
                 <td>Low Barrier Navigation Center</td>
-                <td colspan="2">P</td>
+                <td colspan="2">-</td>
                 <td>P</td>
                 <td/>
               </tr>
@@ -2990,9 +2990,8 @@
         </tbody>
       </table>
     </text>
-    
     <codify:replace path="19.11.040">
-      <section>  
+      <section>
         <num>19.11.040</num>
         <heading>Permitted uses.</heading>
         <text>Table 1 of <cite doc="City of American Canyon, Cal., Code" path="|19.11.040">this section</cite> sets forth the permitted and conditionally permitted uses for each commercial district. A "P" designates a permitted use. A "C" indicates a conditionally permitted use subject to approval of a use permit by the planning commission. An "M" indicates a minor use permit is required pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.42">Chapter 19.42</cite>. If no letter is found opposite a particular use, it is not permitted in that district.</text>
@@ -3063,7 +3062,7 @@
               </tr>
               <tr>
                 <td>Low Barrier Navigation Center</td>
-                <td colspan="2">P</td>
+                <td colspan="2">-</td>
                 <td>P</td>
                 <td/>
               </tr>
@@ -4308,7 +4307,7 @@
             <text>CC&amp;Rs. As defined in <cite doc="Cal. Civ. Code" path="§4751">California Civil Code Section 4751</cite> or any successor statute, any covenant, condition, and restriction (CC&amp;R) or contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards (subsections F and G) established for those units shall be void and unenforceable. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
           </para>
         </section>
-        <codify:replace path="19.39.050|(K)">          
+        <codify:replace path="19.39.050|(K)">
           <para>
             <num>(K)</num>
             <text>CC&amp;Rs. As defined in <cite doc="Cal. Civ. Code" path="§4751">California Civil Code Section 4751</cite> or any successor statute, any covenant, condition, and restriction (CC&amp;R) or contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards (subsections F and G) established for those units shall be void and unenforceable.</text>
@@ -4499,7 +4498,7 @@
           <th>ABSENT:</th>
           <td>Vice Mayor Oro</td>
         </tr>
-      </table>     
+      </table>
     </text>
     <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 2<sup>nd</sup> day of April, 2024, by the following vote:</text>
     <text>
@@ -4520,7 +4519,7 @@
           <th>ABSENT:</th>
           <td>None</td>
         </tr>
-      </table>     
+      </table>
     </text>
     <text>_____________________________</text>
     <text>Leon Garcia, Mayor</text>
